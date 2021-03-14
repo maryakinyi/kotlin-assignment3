@@ -1,5 +1,5 @@
 fun main (){
-var text="AkiraChix"
+val text="AkiraChix"
     println(text[0])
     println(text[2])
     println(text[3])
